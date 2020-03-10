@@ -31,3 +31,7 @@ build/
 .vscode/
 !/mvnw.cmd
 !/mvnw
+!/.mvn/
+!/mvnw.cmd
+!/trade.iml
+!/mvnw
